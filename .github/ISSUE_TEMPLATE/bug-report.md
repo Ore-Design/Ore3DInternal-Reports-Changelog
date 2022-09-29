@@ -19,12 +19,5 @@ A clear and concise description of what the bug is.
 **Expected Behavior:**
 A clear and concise description of what you expected to happen.
 
-**Screenshots:**
-If applicable, add screenshots to help explain your problem.
-
-**User Info:**
- - OS: [e.g. Windows]
- - Version [e.g. 1.4.1, same as title]
-
 **Additional Context/Questions:**
 Add any other context about the problem here.
